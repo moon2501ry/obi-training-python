@@ -1,3 +1,5 @@
+# https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/camisetas/
+
 num_premiados = int(input());
 tamanhos_solicitados = str(input()).split();
 num_camisas_p = int(input());

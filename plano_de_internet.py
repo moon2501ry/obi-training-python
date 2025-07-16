@@ -1,3 +1,5 @@
+# https://olimpiada.ic.unicamp.br/pratique/pj/2021/f1/plano/
+
 cota = int(input());
 cota_inicial = cota;
 n_meses = int(input());
