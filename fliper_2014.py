@@ -1,3 +1,5 @@
+# https://olimpiada.ic.unicamp.br/pratique/pj/2014/f1/fliper/
+
 _input = str(input()).split();
 portilha_p = int(_input[0]);
 portilha_r = int(_input[1]);
